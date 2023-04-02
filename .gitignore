@@ -1,0 +1,15 @@
+# visual studio code
+.vscode
+
+# coding
+atcoder
+codeforces
+
+# quick Test
+test
+
+# virtual environment
+env
+
+# cpp x-executable files
+output
